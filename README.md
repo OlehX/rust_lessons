@@ -25,5 +25,4 @@ To run the tests, use:
 ```bash
 cargo test
 ```
-```
 
